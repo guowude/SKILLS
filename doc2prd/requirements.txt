@@ -1,0 +1,7 @@
+# Requirements for doc2prd
+
+# Add your Python package dependencies here
+
+# Example dependencies:
+# numpy==1.21.0
+# pandas==1.3.0
