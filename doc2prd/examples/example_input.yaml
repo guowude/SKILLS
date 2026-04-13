@@ -1,0 +1,12 @@
+# Example Product Input Configuration
+
+product_name: My Product
+
+description: >
+  This is a description of My Product. It outlines its features, benefits, and other important details.
+
+parameters:
+  - key: example_key
+    value: example_value
+  - key: another_key
+    value: another_value
