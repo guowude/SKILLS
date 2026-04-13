@@ -1,0 +1,21 @@
+# doc2prd Configuration
+
+api:
+  base_url: "https://api.example.com"
+  api_key: "your_api_key"
+
+output:
+  path: "./output"
+  format: "html"
+
+sources:
+  - "./docs/source1"
+  - "./docs/source2"
+
+options:
+  processing:
+    parallel: true
+    timeout: 30
+  logging:
+    level: "info"
+    file: "./logs/doc2prd.log"
